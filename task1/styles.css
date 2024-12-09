@@ -1,0 +1,27 @@
+body {
+    background-color: #69008381;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin: 20px;
+}
+
+.my_photo {
+    width: 250px;
+    border-radius: 10%;
+    border: 3px solid #333;
+    margin-bottom: 20px;
+}
+
+ul {
+    margin: 20px;
+    display: inline-block;
+    text-align: left;
+}
+
+ul li {
+    padding: 5px;
+}
